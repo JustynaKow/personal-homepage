@@ -1,3 +1,10 @@
+#
+using styled-components - version 5.0.0
+npm install styled-components@5.0.0
+
+using styled-normalize - version 8.0.7
+npm install --save styled-normalize
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
